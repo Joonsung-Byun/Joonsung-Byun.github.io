@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a907bab3.css",
+    "main.js": "/static/js/main.b48890c0.js",
+    "static/js/453.f84c65ec.chunk.js": "/static/js/453.f84c65ec.chunk.js",
+    "static/media/alternate_teamlogo.jpg": "/static/media/alternate_teamlogo.20f546b6f3a15119aa2d.jpg",
+    "index.html": "/index.html",
+    "main.a907bab3.css.map": "/static/css/main.a907bab3.css.map",
+    "main.b48890c0.js.map": "/static/js/main.b48890c0.js.map",
+    "453.f84c65ec.chunk.js.map": "/static/js/453.f84c65ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a907bab3.css",
+    "static/js/main.b48890c0.js"
+  ]
+}
